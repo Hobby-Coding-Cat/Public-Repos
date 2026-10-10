@@ -30,6 +30,31 @@ its bundle is the authoritative copy.
 | 2018/December | 7 Oct 12:00 | sess_00rohyfkdaznko50jucz | 145/145, 41 figures, 2 rounds; missing key-URL line fixed. Dropped Q54, Q55, Q74; dual Q21, Q26, Q39, Q53 |
 | 2017/June | 7 Oct 16:00 | sess_00rp3d5lnaww0gfyigwb | In flight at time of this record |
 
+## Runs of 7 to 10 October, completing the queue
+
+| Session folder | Run (IST) | Session id | Outcome |
+| --- | --- | --- | --- |
+| 2017/June | 7 Oct 16:00, stalled; healed 10 Oct | sess_00rp3d5lnaww0gfyigwb, sess_00rzqxi3j7wn4efrmyli | Heal delivered 24 files, 2 rounds. Checker caught "Cholera" drafted where the scan prints "Tuberculosis"; key CSIR-HRDG final Booklet A, deep link honestly not retained |
+| 2017/December | 7 Oct 20:00 | sess_00rporw87z2tcuf2nne8 | 143 answered of 145, 27 figures, 1 round; Q70 and Q80 starred with no answer invented; both paper copies are one Pathfinder reproduction, recorded |
+| 2016/June | 8 Oct 00:00, stalled; healed 10 Oct | sess_00rqa6mdiw3k0r2vokuy, sess_00rzqxni3szy8594p0mr | Heal delivered 31 files, 1 round clean; drops Q29, Q34, Q115 and duals Q4, Q40, Q128 confirmed independently |
+| 2016/December | 8 Oct 04:00 | sess_00rqvlcwz591ci6i1m7x | 145/145, 31 figures, 1 round; key-versus-textbook tensions at Q45, Q58, Q130, Q134 documented as change-in-key |
+| 2015/June | 8 Oct 08:00 | sess_00rrh03a1qwhs6eun7mk | 145/145, 22 figures, 2 rounds, 5 defects fixed (1 a checker false positive); verbatim rests on one Booklet-C scan, recorded |
+| 2015/December | 8 Oct 12:00 | sess_00rs2etb9b7k0ga5mrso | 145/145, 19 figures, 1 round; key-table disagreement at Q14 and misprint at Q82 documented |
+| 2014/June | 8 Oct 16:00 | sess_00rsntk3q7v9cf5omnfa | 145/145, 18 figures, 1 round clean |
+| 2014/December | 8 Oct 20:00 | sess_00rt98ap6w2rkrnxglgc | 145/145, 24 figures, 2 rounds; one defect raised then withdrawn, one self-caught; two worker crashes on the payload cap, recovered |
+| 2013/June | 9 Oct 00:00 | sess_00rtun0y16sqostttp2s | 145/145, 22 figures, 2 rounds; 13 defects fixed including a fabricated option in the worker's own draft and 13 loose crops. No official key exists: all answers stamped REASONED |
+| 2013/December | 9 Oct 04:00 | sess_00rug1sjag7i8nwcrpph | 145/145, 31 figures, 2 rounds; provisional key only; ten key-versus-wording doubts under Unresolved |
+| 2012/June | 9 Oct 08:00 | sess_00rv1ghzmcpvke5hxalf | 145/145, 22 figures, 1 round; unofficial key; debatable key entries Q16, Q27, Q44 recorded |
+| 2012/December | 9 Oct 12:00 | sess_00rvmv8t2b474w5p5cxy | 145/145, 27 figures, 3 rounds, 5 defects; no official key; Devanagari leaked into one English option list, kept verbatim and noted |
+| 2011/June | 9 Oct 16:00, stalled; healed 10 Oct | sess_00rw8a2tq1la86jkkmeq, sess_00rzqxsqfm680nz4fe97 | Heal delivered 30 files, 1 round clean; unit-based printed numbering kept; complete printed key on page 27 of the Pathfinder PDF; eight key-versus-reasoning conflicts noted inline |
+| 2011/December | 9 Oct 20:00 | sess_00rwtot9uh728j19kwn4 | 145/145, 22 figures, 2 rounds, 2 defects; unofficial key |
+
+## Wrap-around duplicates, and the rule for them
+
+The schedule was paused at the wrap on 10 Oct, after four ticks had regenerated finished folders and one tick mis-indexed. Extra bundles exist for: 2025/June (sess_00rxf3jf0ei9sjndz8v7, stalled mid-fix-pass, discard), 2023/June (sess_00ry0ia63cem8m3kxt60, mis-indexed tick, 3 rounds, 4 defects fixed), 2024/June (sess_00rylx0m7s0e9r2xj8nd, 2 rounds, 2 defects, Part C Q88 leaked-text fix) and 2024/December (sess_00rz7br3b8ttsn9eaiem, 2 rounds, 1 defect).
+
+At transfer time the rule is: for each folder keep the latest run that converged to a clean checker verdict, and discard earlier bundles, except where an earlier run recorded provenance the later one lost - in which case keep both and note it. Every session id above is retained so any choice can be audited.
+
 ## Transfer notes
 
 - Figures and Markdown reach this repository in waves. The transfer channel must carry binary
