@@ -65,3 +65,42 @@ At transfer time the rule is: for each folder keep the latest run that converged
 - Where two bundles exist for one folder (2024/June), the later run supersedes the earlier.
 - FLAGGED nulls are correct absences, not failures: 2026/December awaits its examination,
   2020/December never happened.
+
+## Repository contents
+
+Folders now present in this repository: 2018/June, 2018/December, 2019/June, 2020/December,
+2021/June, 2022/June, 2022/December, 2023/June, 2024/June, 2024/December, 2025/June,
+2025/December, 2026/June and 2026/December, alongside README.md, docs/ and this record.
+
+These bundles arrived on 12-13 October 2026 via 72-hour temporary ferry links
+(litterbox.catbox.moe) produced by ferry sessions that mounted each delivering session's
+artifacts, tarred them and uploaded them; each archive's sha256 was verified locally after
+download before extraction:
+
+| Folder | Files | Archive sha256 |
+| --- | --- | --- |
+| 2026/June | 14 | 2d73c6cd10fc61526a6e92dc7c587db4c46a2bffade050db78ee64f2b8256961 |
+| 2026/December | 1 | 13bcb694255b4b779a5900dc294ef5ff72ff5e4d7fd79d15c2238dcf21776dcc |
+| 2025/June | 26 | 117af26324c7e3d452abb06eed182ffc4eba35a71088c5bd42b121a170b6208c |
+| 2025/December | 42 | 5111eb99635e1153899ea71a5a0d8ed9aebb5d069c46fb5ed10066e011e00cb8 |
+| 2024/June | 29 | 210513f70a158d7b02447b4804cf39f7906d6f70ca70f6e7da798b0e97e30091 |
+| 2024/December | 30 | a7afcc6c72d1a23d7a4dbd1445dfc164b292de938921edac29a37af819d635a1 |
+| 2023/June | 29 | 7912f5ae978452a32b2a80bdef16599faad8298843cd317577148a16a4c397df |
+| 2022/June | 29 | b4e42d2bcbe8789170a99e9aa83771f6e45a60e0e71decad0d8126096a3f4a89 |
+| 2022/December | 29 | 214ae2a588f2b5749b153adeb1e69588874b33657b0f9370b227e32867ccbdb3 |
+| 2020/December | 5 | 53fccf6387b06c978962e747d77d1e8ea33c6586d6be55090b7bef5799efc8c3 |
+| 2021/June | 25 | 597820f55f3e4bebb3dae32527dd522d0ca9487ffcd0275fb4ef838d332cd41a |
+| 2019/June | 29 | c9216a41d5929edd2895666b7411fac1dfe49fa938e8817d11ff2a649a780096 |
+| 2018/June | 42 | c4b7eca9e722801fdbd9a5ca415bac6669e2f28ddcbf2bd99fbcf7fdea01596f |
+| 2018/December | 45 | 840dca4fd5a8a38516bba8bf4ffa15a00ee03e3b288cb2ed60196065057fee9e |
+
+Where a delivering session held several delivery passes for the same filename, only the latest
+pass was mounted and transferred; superseded duplicate bundles were not transferred.
+
+The remaining 18 folders (2023/December, 2021/December, 2020/June, 2019/December, 2017/June,
+2017/December, 2016/June, 2016/December, 2015/June, 2015/December, 2014/June, 2014/December,
+2013/June, 2013/December, 2012/June, 2012/December, 2011/June, 2011/December) are not yet in
+the repository: 2021/December's ferry declined the anonymous upload twice; 2023/December,
+2020/June and 2019/December ferries returned unusable or garbled URLs; the rest were
+interrupted by a Qoder Cloud Agents connector outage on 12 October 2026 that lasted over
+45 minutes and did not recover during this run. They remain queued for the next wave.
