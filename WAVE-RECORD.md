@@ -104,3 +104,31 @@ the repository: 2021/December's ferry declined the anonymous upload twice; 2023/
 2020/June and 2019/December ferries returned unusable or garbled URLs; the rest were
 interrupted by a Qoder Cloud Agents connector outage on 12 October 2026 that lasted over
 45 minutes and did not recover during this run. They remain queued for the next wave.
+
+## Local archive completed (13 October)
+
+All thirty-two folders now reside on the operator's PC at `CSIR-Paper`, transferred from their
+delivering cloud sessions through a temporary file host, each archive verified by sha256 before
+extraction. Final tally: 30 scored session folders with 145 questions each (2011-2025, both terms),
+plus two never-conducted sessions (2020/December, 2026/December) carrying explanation files only.
+
+Repairs applied during consolidation, with every touched file backed up under
+`_superseded/pre-fix/`:
+
+- 35 figure references corrected in 2011/June, 2011/December and 2015/June. In every case the image
+  file already existed in the correct question-number band and the reference named the wrong
+  subfolder; the reference was corrected, no file was moved and no content was altered.
+- 2015/June delivered its Part files as `part-a.md`, `part-b.md`, `part-c.md` plus chunk files and a
+  working notes file; the three complete files were used, renamed to the standard, and their
+  headings normalised from `### QNN` to `### Question NN`. Superseded files moved to
+  `_superseded/2015-June/`, nothing deleted.
+- Part filenames standardised to `PartA.md`, `PartB.md`, `PartC.md` in 2021/December, 2023/June,
+  2024/June and 2025/December. Two `sources.md` files still mention the old names in their own
+  narrative and were left untouched.
+- 2026/December gained the `FLAGGED.md` explanation file it was missing.
+
+Post-repair verification: zero unresolved figure references across all folders; question counts
+145/145 in all thirty scored folders.
+
+Not yet done: these folders have not been pushed to the repository. Fourteen folders from an earlier
+wave are already public there; the remainder awaits the owner's decision on repository visibility.
