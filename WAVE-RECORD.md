@@ -129,6 +129,11 @@ Repairs applied during consolidation, with every touched file backed up under
 
 Post-repair verification: zero unresolved figure references across all folders; question counts
 145/145 in all thirty scored folders.
+## Repository state
 
-Not yet done: these folders have not been pushed to the repository. Fourteen folders from an earlier
-wave are already public there; the remainder awaits the owner's decision on repository visibility.
+Complete. All thirty-two folders, the two standards documents and this record are published on the
+`main` branch; provenance scratch (`_superseded/`, the ferry manifest and its expiring links,
+progress logs) is deliberately excluded by `.gitignore` and remains only on the operator's machine.
+2020/June's two extra provenance files were folded into its `sources.md` as appendices, with the
+originals kept in `_superseded/2020-June/`. Remaining work is a single item: 2026/December joins the
+queue after its examination and answer key exist.
