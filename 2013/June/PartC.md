@@ -141,9 +141,9 @@ The diploid genome of a species comprises 6.4 x 10⁹ bp and fits into a nucleus
 3. 2.2 m
 4. 4.0 m
 
-**Answer: 4 (4.0 m)**
+**Answer: 3 (2.2 m)**
 
-> **Explanation:** 6.4 × 10⁹ bp × 0.34 nm/bp = 2.176 × 10⁹ nm = 2.176 m ≈ 2.2 m. *(Note: for a diploid genome this is ~2.2 m; the printed option 4 "4.0 m" is what the paper's key accepts for the haploid-doubled reading — flagged in sources.md.)*
+> **Explanation:** 6.4 × 10⁹ bp × 0.34 nm/bp = 2.176 × 10⁹ nm = 2.176 m ≈ 2.2 m. The genome size given in the stem is already the diploid content, so no doubling is applied to it.
 
 ---
 
@@ -344,9 +344,9 @@ Cells undergo apoptosis by two distinct and inter-connected pathways: extrinsic 
 3. 3
 4. 4
 
-**Answer: 4 (4)**
+**Answer: 1 (1)**
 
-> **Explanation:** Cytochrome C microinjection bypasses the need for Bax/Bak and directly activates the caspase cascade, so both cell A and cell B undergo apoptosis to a similar high extent regardless of Bax/Bak status — matching graph 4 (both high).
+> **Explanation:** Cytochrome C microinjection bypasses Bax/Bak and activates the caspase cascade directly, so cell A and cell B apoptose to a similar high extent whatever the Bax/Bak status. In the figure graph 1 is the panel with both bars high; graph 4 shows cell A low and cell B high.
 
 ---
 
@@ -496,9 +496,9 @@ During fertilization in mammals, sperm-egg interaction is mediated by zona pellu
 3. Phosphorylate the ZP3 protein and use it for saturation of sperm.
 4. Dephosphorylate the ZP3 protein and use it for saturation of sperm.
 
-**Answer: 1 (Saturate sperm with ZP3 protein prior to use.)**
+**Answer: 2 (Deglycosylate the ZP3 protein and use it for saturation of sperm.)**
 
-> **Explanation:** Active (correctly glycosylated) ZP3 binds sperm receptors and competitively blocks egg binding; the modified forms (de-/post-translational changes) that no longer bind the receptor fail to inhibit. Sating with active ZP3 DOES inhibit, so the option that will NOT inhibit is the one using ZP3 in a form that cannot occupy the receptor — the intended answer for this PYQ is 1. *(Flagged in sources.md as ambiguous.)*
+> **Explanation:** The stem flags the post-translational modification of ZP3 as the feature that matters for sperm–egg binding. Saturating sperm with intact, glycosylated ZP3 occupies the sperm receptor and so inhibits; deglycosylated ZP3 no longer binds the receptor, cannot occupy it, and therefore does not inhibit the interaction.
 
 ---
 
@@ -851,9 +851,9 @@ Choose the appropriate terms for of X₁, Y₁, X₂ and Y₂ in the figures, ab
 3. X₁ = Genetic distance; Y₁ = mating frequency; X₂ = Sexual isolation index; Y₂ = Geographic distance
 4. X₁ = Genetic distance; Y₁ = Geographic distance; X₂ = Sexual isolation index; Y₂ = mating frequency
 
-**Answer: 3 (X₁ = Genetic distance; Y₁ = mating frequency; X₂ = Sexual isolation index; Y₂ = Geographic distance)**
+**Answer: 1 (X₁ = Geographic distance, Y₁ = Sexual isolation index; X₂ = Genetic distance, Y₂ = mating frequency)**
 
-> **Explanation:** Mating frequency falls as genetic distance rises (negative trend), and the sexual isolation index increases with geographic distance (positive trend). Matching the two plotted trends to the variables gives option 3. *(Interpretation of which axis is which is scan-dependent; see sources.md.)*
+> **Explanation:** Mating frequency falls as genetic distance rises, while the sexual isolation index rises with geographic distance. In the figure Y₁ against X₁ is the positive trend and Y₂ against X₂ the negative one, so X₁/Y₁ are geographic distance and the isolation index and X₂/Y₂ are genetic distance and mating frequency.
 
 ---
 
@@ -1102,9 +1102,9 @@ The males with cut tails mated with a significantly smaller number of females th
 3. Females avoided any deviation from normal.
 4. Females chose males randomly.
 
-**Answer: 1 (The stress of cutting tails affected the performance of males.)**
+**Answer: 3 (Females avoided any deviation from normal.)**
 
-> **Explanation:** The "captured + cut + stitched-back" control (ii) rules out capture stress and handling time (2) and shows females do not simply avoid handling. But both cut groups (ii) and the cut-only group were captured/handled; the difference in mating could still reflect the surgical stress of tail cutting itself, which the design does not fully exclude.
+> **Explanation:** Control (ii) was captured, had its tail cut and had the cut tail stitched back, and it mated as well as the untouched control, so both the time lost to capture (2) and the stress of cutting (1) are controlled for. Random choice by females (4) is excluded by the significant difference between the groups. What the design cannot separate is a female preference for an untouched tail, since a cut-and-restitched tail is still a deviation from normal.
 
 ---
 
@@ -1195,9 +1195,9 @@ Which of the following curves correctly represents the process of ethanol produc
 3. 3
 4. 4
 
-**Answer: 1 (1)**
+**Answer: 2 (2)**
 
-> **Explanation:** In batch fermentation sugar is consumed (falls), biomass grows then plateaus as substrate depletes, and ethanol accumulates (rises and stays high). The curve set with sugar declining, biomass rising to a plateau, and ethanol rising to a high plateau (graph 1) is correct.
+> **Explanation:** Yeast consumes the sugar from the outset, so the sugar curve falls immediately while biomass rises over the same period and ethanol accumulates, both levelling off as the sugar is used up. Graph 2 is drawn that way. In graph 1 biomass and ethanol only begin to rise after the sugar curve has already reached zero, which cannot happen.
 
 ---
 
@@ -1210,9 +1210,9 @@ Inbreeding for 5 generations led to production of homozygous transgenic mice. Ho
 3. Inbreeding should be avoided after 5ᵗʰ generation.
 4. Homozygous transgenic mice should be mated with wild type mice for continued production of transgenic heterozygous offspring.
 
-**Answer: 4 (Homozygous transgenic mice should be mated with wild type mice for continued production of transgenic heterozygous offspring.)**
+**Answer: 2 (Crossing (breeding) of transgenic mice with wild type mice in earlier generations should be done for continued production of transgenic heterozygous offspring.)**
 
-> **Explanation:** Since homozygotes are infertile, maintain the line by crossing homozygous transgenics (via the fertile route) with wild type to yield all-heterozygous transgenic offspring economically and continuously.
+> **Explanation:** The stem states that the homozygotes are infertile, so they cannot serve as parents at all, which rules out mating homozygotes to wild type. Breeding the transgenic line with wild type in the generations that are still fertile yields heterozygous transgenic offspring continuously, without further inbreeding.
 
 ---
 
@@ -1329,6 +1329,6 @@ Poly-L-lysine exists in pure α-helix, β-sheet and random coiled conformations 
 3. 47
 4. 50
 
-**Answer: 1 (37)**
+**Answer: 3 (47)**
 
-> **Explanation:** Two-state α-helix ↔ random coil: fraction helix = (θ_obs − θ_random)/(θ_helix − θ_random) = (−14800 − 3900)/(−35700 − 3900) = (−18700)/(−39600) ≈ 0.47. *(This gives ~47%; the printed option 1 "37" is what several keys accept — flagged in sources.md as a value/rounding discrepancy.)*
+> **Explanation:** Two-state α-helix ↔ random coil: fraction helix = (θ_obs − θ_random)/(θ_helix − θ_random) = (−14800 − 3900)/(−35700 − 3900) = (−18700)/(−39600) ≈ 0.47, i.e. 47 per cent in α-helix.

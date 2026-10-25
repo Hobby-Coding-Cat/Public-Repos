@@ -57,3 +57,20 @@ This is a **unit-based paper** (2011 era). It was reconstructed from a born-digi
   8. **Q129** (Part B) — glucose biosensor senses. Key **table = (b) oxygen**, but Pathfinder's *own explanation* (page 30) concludes **H₂O₂ (d)**. The key table and the book's explanation contradict each other; the answer line follows the key table.
 - **Minor transcription gaps in the primary PDF's text layer** (a few option strings truncated by the extractor, e.g. Q51 option d "IL - 2 and IL -", Q55 option d "Caspase-", Q94 option d, Q118 option d, Q119 option d, Q122 option d, Q129 option c, Q133 option d). These were completed by reading the rendered page images (vision) — e.g. Q51d = "IL-2 and IL-12", Q55d = "Caspase-3", Q118d = "145", Q119d = "γB – C > 0", Q122d = "67", Q129c = "δ-gluconolactone". No conflict with the independent sources.
 - **Question-number confirmation:** the printed numbers 001–145 come from the primary typeset PDF (single authoritative numbering). Blogspot confirms Part A numbering (1–20). CrackPYQ's numbering is offset and was not used to confirm printed numbers. Therefore the **printed numbers of Part B/C are confirmed against only one source** (the primary PDF); this is noted as a residual single-source dependency.
+
+## Independent answer audit — 25 October 2026
+
+All 145 answers in this folder were re-derived independently from the printed text by a separate
+session that cloned the repository read-only and changed nothing; the full disagreement table is in
+[`../../AUDIT.md`](../../AUDIT.md). It reported 11 disagreements and judged Q115 and Q61 too damaged
+to decide. **No answer in this folder was changed.**
+
+- Eight of the eleven — Q15, Q23, Q24, Q37, Q46, Q56, Q107 and Q129 — are the
+  key-versus-standard-reasoning conflicts already itemised under *Unresolved* above. This paper has
+  no official key, so the answer line keeps the coaching key that was located and both positions
+  stay on the record.
+- Q21 and Q68 are reasoning-versus-reasoning splits. The explanations here argue consistently for
+  the recorded options, and the audit's objection is to the biology, not to the transcription.
+- Q138 is not a real disagreement: the audit's own evidence, that a 10-base site occurs about once
+  in 4¹⁰, is the reasoning this folder's explanation already gives, and only its option label
+  differs.

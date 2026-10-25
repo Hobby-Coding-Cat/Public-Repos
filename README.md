@@ -23,6 +23,10 @@ One folder per examination session, `YYYY/June/` or `YYYY/December/`, each conta
 ## Current state
 
 `WAVE-RECORD.md` is the authoritative log of what has been produced, with the outcome of every run.
-The folders themselves are presently held as delivered bundles in Qoder cloud storage; they land in
-this repository in waves, complete with figures, as described in the wave record. Nothing in this
-repository is hand-written: every file arrives from a pipeline run or from `docs/`.
+`AUDIT.md` records the independent re-derivation of all 870 answers in the six folders that do not
+rest on an official key, the disagreements it found, and what was done about each one.
+
+Thirty scored session folders, 2011/June through 2026/June, are published on `main` with their
+figures; the two sessions never conducted, 2020/December and 2026/December, carry explanation files
+instead of a paper. Nothing inside a session folder is hand-written: those files arrive from a
+pipeline run or from `docs/`.

@@ -97,6 +97,14 @@ within each Part, confirmed against printed section headers, and printed shuffle
 used; two independent sources minimum; transcription verbatim from the scan; reasoned answers
 stamped as reasoned.
 
+An answer that rests on no official key is not settled by the run that wrote it. A session that
+cannot edit the folder re-derives every answer in it from the printed text and returns its
+disagreements as a list rather than as edits, and each row is then triaged by rule: the key governs
+where a real key exists, a recorded option that contradicts its own arithmetic, its own stated
+reasoning or its own figure is a defect and is corrected, and an unresolved split between an
+unofficial key and independent reasoning is published as both positions. `AUDIT.md` is the worked
+example, and a folder is not complete until this has been done to it.
+
 ## 8. Outputs, and the repository
 
 Delivered bundles accumulate in cloud storage, visible in the console. The public repository is the

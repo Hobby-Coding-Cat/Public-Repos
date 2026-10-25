@@ -1035,12 +1035,12 @@ Which one of the following conclusions drawn regarding the nature of mutations b
 3. M1 – insertion, M2 – transition, M3 – transversion
 4. M1 – transversion, M2 – transition, M3 – insertion
 
-**Answer: 1 (M1 – transversion, M2 – insertion, M3 – deletion)**
+**Answer: 4 (M1 – transversion, M2 – transition, M3 – insertion)**
 
 > **Explanation:** M3 is reversed only by acridine orange (a frameshift/indel
 > mutagen) → an insertion/deletion class. M2 is reversed by base-analogue and
 > deaminating agents (transition-type). M1 is not reversed by any tested agent,
-> consistent with a transversion. Option 1 best fits the pattern.
+> consistent with a transversion. Option 4 is the only listed combination that puts M2 in the transition class.
 
 ---
 

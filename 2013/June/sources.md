@@ -85,20 +85,58 @@ source.
    exoskeleton") is internally inconsistent — an open circulatory system with stiff appendages
    implies an arthropod, but "no exoskeleton" contradicts a crustacean. Transcribed verbatim;
    answer given as crustacean (option 4) with the inconsistency noted.
-4. **Q78 (DNA length).** 6.4×10⁹ bp × 0.34 nm ≈ 2.18 m, which is option 3 (2.2 m); the widely
-   cited key answer is option 4 (4.0 m), which only works if the 6.4×10⁹ bp is treated as haploid
-   and doubled for the diploid genome. Recorded the option-4 choice with the arithmetic caveat.
-5. **Q98 (ZP3, NOT inhibit).** The competitive-inhibition logic is imperfectly framed; the
-   accepted answer is option 1. Noted.
+4. **Q78 (DNA length).** 6.4×10⁹ bp × 0.34 nm ≈ 2.18 m, which is option 3 (2.2 m). The stem already
+   gives the diploid content, so no doubling applies. Recorded as option 3; the option-4 reading was
+   carried earlier on the strength of coaching keys and contradicted the arithmetic in its own
+   explanation.
+5. **Q98 (ZP3, NOT inhibit).** The stem asks which saturation experiment does *not* inhibit
+   sperm–egg interaction. Intact glycosylated ZP3 occupies the sperm receptor and therefore
+   inhibits, so the non-inhibiting treatment is deglycosylated ZP3, option 2. Recorded as option 2;
+   option 1 had been carried as the "accepted" coaching answer while the explanation argued for
+   option 2.
 6. **Q106 (GM-CSF).** GM-CSF also supports mast cells, so "mast cells normal" is debatable; the
    accepted answer is option 1. Noted.
 7. **Q116 / Q118 (table & scatter plots).** Small table cells and axis labels in the scan make
    the exact row/column and X/Y assignment partly read-dependent; best-effort transcription.
+   `images/C/fig118.png` was re-read during the audit: plot 1 (Y₁ against X₁) is the positive trend
+   and plot 2 (Y₂ against X₂) the negative one, which fixes the assignment to option 1.
 8. **Q133 (three-domain tree).** The branch-length inference is contested across coaching keys;
    option 4 recorded with caveat.
-9. **Q145 (poly-L-lysine % helix).** The two-state calculation gives ≈47% (option 3); several
-   keys record 37 (option 1). The discrepancy is a value/rounding issue in the source; both the
-   computed value and the recorded option are shown.
+9. **Q145 (poly-L-lysine % helix).** The two-state calculation gives (−14800 − 3900) ÷
+   (−35700 − 3900) = 18700/39600 ≈ 47%, so the recorded answer is option 3. Several coaching keys
+   print 37 (option 1); the arithmetic of the values printed in the question supports 47.
 
 No question was fabricated. No question is missing: all printed Q1–Q145 are present and
 contiguous.
+
+## Independent answer audit — 25 October 2026
+
+All 145 answers were re-derived independently by a separate session that consulted the source scans
+listed above wherever a figure decided the answer; the table is in
+[`../../AUDIT.md`](../../AUDIT.md). 15 disagreements and 6 undecidable items. **Ten answers were
+corrected**, each because the recorded option contradicted its own arithmetic, its own stated
+reasoning, or its own figure. Items 4, 5, 7 and 9 of the *Unresolved* list above have been rewritten
+to match what is now in the question blocks.
+
+| Q | Was | Now | The contradiction inside the block |
+| --- | --- | --- | --- |
+| 48 | 1 | 3 | explanation describes intracellular solute gain and water influx, which is option 3's mechanism |
+| 51 | 1 | 2 | explanation states that A→C is a transversion, then records transition |
+| 78 | 4 | 3 | explanation computes 2.176 m ≈ 2.2 m, then records 4.0 m |
+| 90 | 4 | 1 | `images/C/fig090.png`: graph 1 has both bars high; graph 4 has cell A low and cell B high |
+| 98 | 1 | 2 | explanation concludes the non-inhibiting form is the one that cannot occupy the receptor, i.e. option 2 |
+| 118 | 3 | 1 | `images/C/fig118.png`: plot 1 is the positive trend and plot 2 the negative one; option 3 put the negative pair on plot 1 |
+| 132 | 1 | 3 | control (ii) was captured, had its tail cut and had it stitched back, so cutting stress is controlled for by the stem |
+| 137 | 1 | 2 | `images/C/fig137.png`: in graph 1 biomass and ethanol rise only after the sugar curve reaches zero |
+| 138 | 4 | 2 | the stem prints the homozygotes as infertile, so they cannot be mated to wild type |
+| 145 | 1 | 3 | explanation computes 18700/39600 ≈ 47 per cent, then records 37 |
+
+**Unchanged: Q75, Q77, Q94, Q95, Q133.** With no key for this paper these are reasoning against
+reasoning, and in each case the explanation is internally consistent, so the published answer stands
+and the doubt is recorded here rather than settled silently. Q133 is the weakest of the five: the
+explanation calls Bacteria the outgroup, yet every option containing inference (C) also contains a
+statement about Bacteria's relationships, so the item cannot be settled without re-reading the
+printed tree.
+
+**Still undecidable as printed: Q36, Q55, Q104, Q123, Q140**, plus one further item where no option
+is defensible from the print.

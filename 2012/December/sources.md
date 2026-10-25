@@ -98,3 +98,19 @@ read back and verified (three refinement passes).
    EBC adds independently typed answer markers) but not independent physical scans.
    Triyambak and IFAS retyped versions were used to cross-check question wording
    against the scan.
+
+## Independent answer audit — 25 October 2026
+
+All 145 answers were re-derived independently by a separate session; the table is in
+[`../../AUDIT.md`](../../AUDIT.md). 6 disagreements, **one answer changed**.
+
+- **Q116 corrected from option 1 to option 4.** The explanation under it already classifies M2 —
+  reversed by 2-aminopurine and nitrous acid, the base-analogue and deaminating agents — as
+  transition-type, while the option it named described M2 as an insertion. Option 4 is the only
+  listed combination that puts M2 in the transition class, so the answer line now agrees with the
+  reasoning printed above it.
+- **Q22, Q32, Q123, Q124 and Q129** are unchanged: each follows the coaching key located for this
+  paper or is a reasoning split in which the folder's explanation is internally consistent. Q32
+  already carries the printed-key-versus-textbook conflict inline.
+- Undecidable: **Q19** — the constant is smudged as "+147" and the decisive sign cannot be resolved
+  from the scan held here; the recorded answer holds only if the value is −147.

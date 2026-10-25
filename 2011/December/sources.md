@@ -55,3 +55,21 @@ Pathfinder and IFAS are different organisations, different layouts, different nu
 ## Working files
 
 Scratch PDFs/page renders (Pathfinder + IFAS, 150/200 DPI renders, montages) were kept outside the session folder and deleted after cropping. The session folder contains only PartA.md, PartB.md, PartC.md, sources.md and images/.
+
+## Independent answer audit — 25 October 2026
+
+All 145 answers were re-derived independently by a separate session; the table is in
+[`../../AUDIT.md`](../../AUDIT.md). 8 disagreements, nothing undecidable, **one answer changed**.
+
+- **Q57 corrected from option 2 (b) to option 4 (d).** The explanation reasons correctly that
+  CD86-deficient mice, lacking co-stimulation, show little CFSE dilution and so stay at high
+  fluorescence while BALB/c breaks into lower-fluorescence division peaks — and then names panel
+  (b). `images/B/fig057.png` was re-read: panel (b) has the two curves interchanged, and panel (d)
+  is the one drawn as the reasoning requires.
+- **Q5, Q16, Q27, Q44 and Q46** stand on the coaching key located for this paper; each explanation
+  already records that the key's choice departs from the standard treatment.
+- **Q8** is a reasoning split. **Q9** stays as recorded but is the weakest item here: the stem says
+  the cupboard holds a large number of balls of six colours, so on the reading the explanation uses
+  no finite number of draws guarantees three matched pairs, and the smaller options cannot be
+  excluded from the print alone.
+- **Q53 and Q134** were independently confirmed as DROPPED.

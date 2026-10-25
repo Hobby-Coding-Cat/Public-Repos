@@ -419,9 +419,9 @@ The size of red blood cells (RBC) in venous blood is greater than that of arteri
 3. the increased osmotic pressure in RBC.
 4. the dissociation of cytoskeletal proteins in RBC.
 
-**Answer: 1 (the increased permeability of red blood cell (RBC) membrane)**
+**Answer: 3 (the increased osmotic pressure in RBC)**
 
-> **Explanation:** In venous blood, CO₂ enters RBCs and is converted to bicarbonate (with Cl⁻ influx — the chloride shift), increasing intracellular osmolytes and water entry, swelling the cell; this depends on increased membrane permeability to these ions.
+> **Explanation:** In venous blood CO₂ enters the red cell and is hydrated to bicarbonate while Cl⁻ flows in (the chloride shift). The extra solutes inside the cell raise its osmotic pressure, water follows, and the cell swells — which is why venous red cells are the larger ones.
 
 ---
 
@@ -464,9 +464,9 @@ Aspartic acid (Asp) is specified by the codon GAU and GAC. After mutation, Asp i
 3. either transition or transversion.
 4. depurination.
 
-**Answer: 1 (transition)**
+**Answer: 2 (transversion)**
 
-> **Explanation:** GAU→GCU changes the middle base A→C, a purine↔pyrimidine? Actually A→C is a transversion. But the reversion by reactive oxygen species (which cause G→T / transversions) restoring the original indicates the original was a transition. The accepted answer for this PYQ is transition.
+> **Explanation:** Aspartate is GAU/GAC and alanine is GCX, so the mutation changes the middle base A→C — a purine replaced by a pyrimidine, which is by definition a transversion. Reversion by reactive oxygen species, which chiefly generate transversions, is consistent with that class.
 
 ---
 

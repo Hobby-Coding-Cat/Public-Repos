@@ -91,3 +91,19 @@ The scan is Booklet **A**, Subject Code **3**, **English** medium (confirmed on 
 - **No question is missing** from the scan: Part A 1–20, Part B 21–70, Part C 71–145 are all present and transcribed, and the key covers all 145. The self-check confirms contiguous numbering with no gaps and no duplicates.
 
 - **No question is marked DROPPED and no question carries a dual (more-than-one-option) key** in the Booklet A English table — every one of the 145 cells holds a single digit 1–4. (This was checked cell-by-cell; the 2014 discussion shows candidates *wanted* several items dropped, but CSIR's published table did not drop any.)
+
+## Independent answer audit — 25 October 2026
+
+All 145 answers were re-derived independently by a separate session; the table is in
+[`../../AUDIT.md`](../../AUDIT.md). 4 disagreements and 2 undecidable items, and **no answer was
+changed**: all four are the provisional NTA key disagreeing with the science rather than this file
+disagreeing with itself, and where a real NTA key exists the key governs the answer line.
+
+- **Q108, Q113, Q130 and Q136** — the objections are the potassium-channel attribution in statement D
+  of Q108, which panel of `images/C/fig113.png` is the progesterone-rise curve, the "NOT appropriate"
+  reading of the Q130 stem, and blue/green adjacency in Q136. These are doubt about the key, not
+  about the transcription; anyone using this folder should know these four are the items a biologist
+  would answer differently.
+- Undecidable as printed: **Q71** (a tryptic digest cannot yield the stated 3- and 4-residue
+  fragments) and **Q100** (options A and B are mutually exclusive yet both appear in the key's
+  answer).

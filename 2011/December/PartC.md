@@ -383,9 +383,9 @@ T-cell proliferation *in vivo* is to be analyzed. The cells are labelled with CF
 3. c
 4. d
 
-**Answer: 2 (b)**
+**Answer: 4 (d)**
 
-> **Explanation:** CFSE fluorescence halves with each division, so proliferating cells shift to lower fluorescence. CD86 (B7-2) provides the co-stimulation needed for T-cell proliferation; in CD86-deficient mice fewer cells divide, so their CFSE profile stays at higher fluorescence than BALB/c — the pattern shown in panel (b).
+> **Explanation:** CFSE fluorescence halves with each division, so proliferating cells shift to lower fluorescence. CD86 (B7-2) supplies the co-stimulation T cells need in order to divide, so in CD86-deficient mice little proliferation occurs and the dashed curve stays a single high-fluorescence peak while the BALB/c curve breaks into lower-fluorescence division peaks. Panel (d) is drawn that way; in panel (b) the two curves are interchanged.
 
 ---
 

@@ -44,3 +44,26 @@ fig80 (Q80 flow-cytometry histogram), fig81 (Q81 scatter plot), fig82 (Q82 four 
 - **Q131 (fossil-record/phylogeny).** The key marks option 2 = (B), (D), (E). Recorded per key; (D) "minimum age" vs (C) "maximum age" is the crux and the key selects (D).
 - No question in Part C was found to be **DROPPED** by the key, and no Part C question was marked as accepting **more than one** option. Every question 71–145 has exactly one key answer.
 - The official NTA final answer key was not directly reachable (candidate portal is login-gated); the EBC solved scan (which reproduces the NTA key answers as printed overlays) is the key actually used.
+
+## Independent answer audit — 25 October 2026
+
+All 145 answers were re-derived independently by a separate session; the table is in
+[`../../AUDIT.md`](../../AUDIT.md). 6 disagreements stand, one reported row was withdrawn, and
+**no answer was changed**.
+
+- **Q11 withdrawn.** The audit flagged it, but its own evidence — the bottom-right panel is the
+  correct velocity–time graph — is what this folder already records as option 4.
+  `images/A/fig11.png` was re-read and confirms it: the displacement trapezoid gives a positive
+  rectangular pulse, then zero, then a negative pulse.
+- **Q21, Q22, Q66, Q88 and Q120** follow the coaching key or are reasoning splits whose
+  explanations here are internally consistent.
+- **Q85** is now known to be weakly argued: the explanation names the codons AUU and UUA, which
+  cannot arise from the repeating AU sequence printed in the stem, and the four options are each
+  defensible under some reading of "repetitive AU". The answer stands on the key; re-read the page
+  before quoting this item.
+- Two transcription defects were reported and are deliberately **not** corrected here, because the
+  page scans are not held in this folder and retyping values from memory is what the standard
+  forbids: **Q79** option 2 prints 1/11 where 2/21 is intended, and **Q75** prints 45 mM where
+  4.5 mM is intended. Neither changes the recorded answer.
+- Undecidable: **Q8** (the 8 g residue is under-determined and self-contradictory) and **Q37**
+  (fate-map captions illegible at 300 dpi).

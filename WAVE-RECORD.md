@@ -129,11 +129,45 @@ Repairs applied during consolidation, with every touched file backed up under
 
 Post-repair verification: zero unresolved figure references across all folders; question counts
 145/145 in all thirty scored folders.
+
+## Independent answer audit (25 October 2026)
+
+Six folders rest on something weaker than an official key: 2013/June has no key at all, 2011/June,
+2011/December, 2012/June and 2012/December rest on coaching-institute keys, and 2013/December rests
+on a provisional one. All 870 answers in those six folders were re-derived from the printed question
+text and options by a separate free-tier session that cloned the repository read-only, changed
+nothing, and opened the source scans listed in each `sources.md` wherever a figure decided the
+answer.
+
+It reported 51 disagreements and 13 questions too damaged to decide. One disagreement was withdrawn
+once its own evidence was read against the figure it cited, leaving 50. **Twelve answers were
+corrected**: ten in 2013/June, one in 2011/December (Q57) and one in 2012/December (Q116). Each of the
+twelve was a recorded option contradicting its own arithmetic, its own stated reasoning or its own
+figure — a defect rather than a debate — and each correction was made by reading the block and, where
+a figure decided it, re-reading the crop.
+
+Everything else stands as published, under three rules written out in `AUDIT.md`: where a real key
+exists the key governs and the doubt is noted; where the file contradicts itself the evidence
+governs; where an unofficial key and independent reasoning split without decisive evidence, both
+positions are recorded and nothing is switched silently. That leaves an unresolved disagreement rate
+of about six per cent across these six folders, which is the honest accuracy of keyless
+reconstruction and is now on the public record rather than in a run summary.
+
+Each audited folder's `sources.md` carries that folder's own outcome, `AUDIT.md` carries the tables,
+and the pre-audit copies are in `_superseded/audit-2026-10-25/`. Two transcription defects the audit
+surfaced — 2012/June Q79 and Q75 — were deliberately left uncorrected, because the page scans are not
+held in the folder and retyping a value from memory is the one thing the standard forbids; they are
+recorded for whoever next opens the source.
+
+The standing rule this establishes: **a folder whose answers are not keyed to an official key is not
+complete until a session that cannot edit it has re-derived them.**
+
 ## Repository state
 
-Complete. All thirty-two folders, the two standards documents and this record are published on the
-`main` branch; provenance scratch (`_superseded/`, the ferry manifest and its expiring links,
-progress logs) is deliberately excluded by `.gitignore` and remains only on the operator's machine.
+Complete. All thirty-two folders, the two standards documents, `AUDIT.md` and this record are
+published on the `main` branch; provenance scratch (`_superseded/`, the ferry manifest and its
+expiring links, progress logs) is deliberately excluded by `.gitignore` and remains only on the
+operator's machine.
 2020/June's two extra provenance files were folded into its `sources.md` as appendices, with the
 originals kept in `_superseded/2020-June/`. Remaining work is a single item: 2026/December joins the
 queue after its examination and answer key exist.
